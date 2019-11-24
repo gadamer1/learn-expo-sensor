@@ -1,0 +1,1 @@
+export const CHANGE_SENSOR = 'CHANGE_SENSOR'
